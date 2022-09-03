@@ -1,2 +1,2 @@
 # 赖嘉宏
-## [my introduction](myintroduction/)
+## [my introduction](mi/)
