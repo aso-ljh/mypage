@@ -32,7 +32,7 @@
 
 ## 所在组织
 
-### [家猪周刊](homepigweekly.cn)
+### [家猪周刊](https://www.homepigweekly.cn/)
 
 ## 其他
 
