@@ -34,7 +34,7 @@
 
 ### [家猪周刊](https://www.homepigweekly.cn/)
 
-## [随笔](https://aso-ljh.github.io/aso-ljh/my informal essay/)
+## [随笔](mie/)
 
 ## 其他
 
