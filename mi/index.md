@@ -34,6 +34,8 @@
 
 ### [家猪周刊](https://www.homepigweekly.cn/)
 
+## [随笔](https://aso-ljh.github.io/)
+
 ## 其他
 
 ### 我承认，已经没有了。
