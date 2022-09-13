@@ -2,4 +2,4 @@
 
 ## [黑白](https://github.com/HPLZH/BlackWhite/releases/)
 
-## Minecraft
+## [Minecraft](MC/)
