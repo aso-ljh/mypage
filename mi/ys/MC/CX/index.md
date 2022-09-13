@@ -4,5 +4,5 @@
 
 ![alt](皮肤.png/)
 
-<img src = "皮肤.png" width = "50%">
+<img src = "皮肤.png" width = "100%">
 
