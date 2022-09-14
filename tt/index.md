@@ -69,6 +69,3 @@
 <img src = "202209111735.jpg" width = "100%">
 
 <img src = "202209111739.jpg" width = "100%">
-
-<img src = "202209111955.jpg" width = "100%">
-
