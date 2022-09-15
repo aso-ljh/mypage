@@ -1,7 +1,5 @@
 # 20220911
 
-<img src = "1725.jpg" width = "100%">
-
 <img src = "1726.jpg" width = "100%">
 
 <img src = "1728.jpg" width = "100%">
