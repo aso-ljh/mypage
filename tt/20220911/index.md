@@ -1,3 +1,4 @@
+# 20220911
 
 <img src = "1725.jpg" width = "100%">
 
@@ -7,21 +8,11 @@
 
 <img src = "1728(2).jpg" width = "100%">
 
-<img src = "1728(3).jpg" width = "100%">
-
-<img src = "1729.jpg" width = "100%">
-
 <img src = "1729(2).jpg" width = "100%">
-
-<img src = "1730.jpg" width = "100%">
 
 <img src = "1733.jpg" width = "100%">
 
 <img src = "1734.jpg" width = "100%">
-
-<img src = "1734(2).jpg" width = "100%">
-
-<img src = "1734(3).jpg" width = "100%">
 
 <img src = "1734(4).jpg" width = "100%">
 
