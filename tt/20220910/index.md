@@ -7,7 +7,7 @@
 
 <img src = "1822(3).jpg" width = "100%">
 
-<img src = "1822(4).jpg" width = "100%">8
+<img src = "1822(4).jpg" width = "100%">
 
 <img src = "1823.jpg" width = "100%">
 
