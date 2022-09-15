@@ -16,8 +16,6 @@
 
 <img src = "1734(4).jpg" width = "100%">
 
-<img src = "1735.jpg" width = "100%">
-
 <img src = "1739.jpg" width = "100%">
 
 
