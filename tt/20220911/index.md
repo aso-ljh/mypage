@@ -2,7 +2,7 @@
 
 <img src = "1726.jpg" width = "100%">
 
-<img src = "1728(2).jpg" width = "100">
+<img src = "1728(2).jpg" width = "100%">
 
 <img src = "1733.jpg" width = "100%">
 
