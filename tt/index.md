@@ -1,4 +1,4 @@
-# [时冢](https://github.com/aso-ljh/mypage/tree/main/tt)
+；# [时冢](https://github.com/aso-ljh/mypage/tree/main/tt)
 
 每一帧照片，都是已逝时光的墓志铭。
 
@@ -23,3 +23,5 @@
 # [2022.09.26](20220926/)
 
 # [2022.09.29](20220929/)
+
+# [2022.09.30](20220930/)
